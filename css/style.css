@@ -191,7 +191,8 @@ textarea:focus {
 }
 
 .brands__item {
-    max-height: 72px
+    max-height: 72px;
+    max-width: 240px;
 }
 
 .brands__item--hp {
